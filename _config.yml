@@ -30,10 +30,10 @@ linkedin_username: sanjayrajjan
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -114,7 +114,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+# references_title: References available on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
