@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at [Do Space](https://dospace.org). I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time. 
   
-  I founded the Chess Club at Prosper High School and established a non-profit organization called <mark>[Chess Together](https://chess-together.org)</mark> to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
+  I founded the Chess Club at Prosper High School and established a non-profit organization called  [Chess Together](https://chess-together.org) to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
 
 content:
   - title: Education # Title for the section
@@ -89,9 +89,9 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Won 3 x Gold in Mixed Doubles
-          Won 1 x Bronze in Boys Doubles
-          Won 1 x Silver in Boys Singles
+          * Won 3 x Gold in Mixed Doubles
+          * Won 1 x Bronze in Boys Doubles
+          * Won 1 x Silver in Boys Singles
 
       - layout: left
         title: Chess
@@ -100,18 +100,49 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          2 x NE State Champion
-          1 x NE State Champion - 2nd place
-          2015 US Open Junior Champion
-          National Elementary Champion
+          * 2 x NE State Champion
+          * 1 x NE State Champion - 2nd place
+          * 2015 US Open Junior Champion
+          * National Elementary Champion
 
-  - title: A Little More About Me
+  - title: Volunteering
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Stephen Center Homeless Shelter
+        caption: Jan 2017 - Nov 2019
+        sub_title: Omaha, NE
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+           Helped in Meal preparation and Serving to People in Homeless Shelter.
+
+      - layout: left
+        title: Aubrey Public Library
+        caption: Jan 2023 - Aug 2023
+        sub_title: Aubrey, TX
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+           Shelving and Sorting books and magazines. Organizing materials on shelves. Keeping shelves neat. Assisting patrons with borrowing books. Bringing requested books to members. Keeping the library clean and tidy. Ensuring order in activity areas.
+
+      - layout: left
+        title: Little Elm Public Library
+        caption: Feb 2023 - Aug 2023
+        sub_title: Little Elm, TX
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+           Shelving and Sorting books and magazines. Organizing materials on shelves. Keeping shelves neat. Assisting patrons with borrowing books. Bringing requested books to members. Keeping the library clean and tidy. Ensuring order in activity areas.
+          
+  - title: News and Articles
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in software engineering some of my other interests and hobbies are:
-      - Tennis
-      - Chess
-      - Gaming
+      * [Chess Together Non-Profit Organization Launched!] (https://chess-together.org/_posts/2024-02-12-chess-together-non-profit/)
+      * [Chess club conducts 1st meetings, plans to participate in tournaments against Rock Hill](https://eaglenationonline.com/31811/news/chess-club-conducts-first-meetings-hopes-to-participate-in-tournaments-against-rockhill/)
+      * [Out of Staters Sweep US Junior and US Senior Opens](https://www.il-chess.org/news/804-2015-us-junior-us-senior-results)
+      
+
       
 
 #      Look at this cool image  
