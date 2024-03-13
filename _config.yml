@@ -48,9 +48,9 @@ linkedin_username: sanjayrajjan
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at https://dospace.org/. I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time. 
+  Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at [Do Space](https://dospace.org). I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time. 
   
-  I founded the Chess Club at Prosper High School and established a non-profit organization called <mark>Chess Together</mark> to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
+  I founded the Chess Club at Prosper High School and established a non-profit organization called <mark>[Chess Together](https://chess-together.org)</mark> to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
 
 content:
   - title: Education # Title for the section
@@ -70,7 +70,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Chess Together Nonprofit
+        title: Chess Together
         link: chess-together.org
         # link_text: boringcompany.com
         sub_title: Founder
@@ -83,27 +83,39 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Tennis
+        caption: 2021 - Present
+        # sub_title: BSc Computer Science
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Won 3 x Gold in Mixed Doubles
+          Won 1 x Bronze in Boys Doubles
+          Won 1 x Silver in Boys Singles
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Chess
+        caption: 2015 - Present
+        # sub_title: BSc Computer Science
+        # quote: >
+        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          2 x NE State Champion
+          1 x NE State Champion - 2nd place
+          2015 US Open Junior Champion
+          National Elementary Champion
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in software engineering some of my other interests and hobbies are:
+      - Tennis
+      - Chess
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#      Look at this cool image  
+#      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
