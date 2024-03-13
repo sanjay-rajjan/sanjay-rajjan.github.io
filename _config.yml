@@ -138,7 +138,7 @@ content:
   - title: News and Articles
     layout: text
     content: | # this will include new lines to allow paragraphs
-      * [Chess Together Non-Profit Organization Launched!] (https://chess-together.org/_posts/2024-02-12-chess-together-non-profit/)
+      * [Chess Together Non-Profit Organization Launched](https://chess-together.org/_posts/2024-02-12-chess-together-non-profit/)
       * [Chess club conducts 1st meetings, plans to participate in tournaments against Rock Hill](https://eaglenationonline.com/31811/news/chess-club-conducts-first-meetings-hopes-to-participate-in-tournaments-against-rockhill/)
       * [Out of Staters Sweep US Junior and US Senior Opens](https://www.il-chess.org/news/804-2015-us-junior-us-senior-results)
       
