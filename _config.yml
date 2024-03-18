@@ -52,6 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I founded the Chess Club at Prosper High School and established a non-profit organization called  [Chess Together](https://chess-together.org) to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
 
+  I am available for a summer internship from June to July 2024.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -100,10 +101,10 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          * 2 x NE State Champion
-          * 1 x NE State Champion - 2nd place
-          * 2015 US Open Junior Champion
-          * National Elementary Champion
+          * 2 x Nebraska State Champion - 1st Place
+          * 1 x Nebraska State Champion - 2nd Place
+          * 2015 US Open Junior Champion - 1st Place
+          * National Elementary Champion - 3rd Place
 
   - title: Volunteering
     layout: list # Type of content section (list/text)
