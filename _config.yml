@@ -41,8 +41,8 @@ linkedin_username: sanjayrajjan
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-gtag: "UG-54FW7H77PD"
-# google_analytics: "UA-00000000-0"
+gtag: UG-54FW7H77PD
+google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
