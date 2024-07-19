@@ -48,11 +48,10 @@ google_analytics: UG-54FW7H77PD
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I’m Sanjay Rajjan, a student at Prosper High School. I started learning computer programming in middle school through the Make.Hack.Build program at [Do Space](https://dospace.org). I’m also a member of the varsity tennis team at PHS. I enjoy playing and coaching chess in my free time. 
-  
-  I founded the Chess Club at Prosper High School and established a non-profit organization called  [Chess Together](https://chess-together.org) to teach chess to kids and special children. I’ve coached over 30 kids through the PHS Chess Club and Chess Together Non-Profit organization.
+  I'm [Sanjay Rajjan](https://sanjay.rajjan.com/), a Prosper High School senior passionate about computer programming. I ignited this passion in middle school through the Make.Hack.Build program at [Do Space](https://dospace.org). Outside of coding, I'm a member of the PHS varsity tennis team.
+    
+  Leadership is also a strong suit. I founded the Chess Club at Prosper High School and even established a non-profit, [Chess Together](https://chess-together.org), to bring chess to kids and children with special needs. I've proudly coached over 30 kids through these initiatives.
 
-  I am available for a summer internship from June to July 2024.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -67,6 +66,12 @@ content:
           
           I also have taken *AP Statistics* in high school as one of my classes because it is particularly very useful for data science.
 
+      - layout: left
+        title: The University of Texas at Dallas
+        caption: Jun 2024 - Jul 2024
+        description: | # this will include new lines to allow paragraphs
+          Attending 8 weeks Artificial Intelligence Workshop.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,6 +85,20 @@ content:
             Established non-profit organization Chess Together to teach chess to kids and children with special needs. 
             By teaching chess and organizing tournaments, we create a supportive environment where kids can learn, compete, and build valuable life skills.    
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Smart Waste Management System
+        link: https://www.hackster.io/
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: March 2024
+        description: | # this will include new lines to allow paragraphs
+            Won Free AVR-IoT Cellular Mini Hardware for this project.
+            The project involves the development of a system that uses the AVR-IoT Cellular Mini to monitor waste levels in garbage bins across a city. The system is designed to send alerts to the city’s waste management department when the waste level in a bin reaches a certain threshold, indicating that the bin needs to be emptied.    
+            [Project Link](https://www.hackster.io/SanjayRajjan/smart-waste-management-system-89782e)
+            
   - title: Awards and Recognitions # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -101,6 +120,7 @@ content:
         # quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          * Texas State K-12 Champion - 4th Place
           * 2 x Nebraska State Champion - 1st Place
           * 1 x Nebraska State Champion - 2nd Place
           * 2015 US Open Junior Champion - 1st Place
@@ -138,7 +158,8 @@ content:
           
   - title: News and Articles
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs    
+      * [Chess Together - March Tournament](https://chess-together.org/_posts/2024-03-09-march-tournament/)
       * [Chess Together Non-Profit Organization Launched](https://chess-together.org/_posts/2024-02-12-chess-together-non-profit/)
       * [Chess club conducts 1st meetings, plans to participate in tournaments against Rock Hill](https://eaglenationonline.com/31811/news/chess-club-conducts-first-meetings-hopes-to-participate-in-tournaments-against-rockhill/)
       * [Out of Staters Sweep US Junior and US Senior Opens](https://www.il-chess.org/news/804-2015-us-junior-us-senior-results)
