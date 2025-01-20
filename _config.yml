@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: Sanjay Rajjan
-title: Junior @ Prosper High School
+title: Senior @ Prosper High School
 #email: brett.h@email.co.uk
 website: sanjay.rajjan.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: 
